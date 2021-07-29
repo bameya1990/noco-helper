@@ -4,5 +4,6 @@ nav:
   - Home: index.md
   - About: about.md
   - Coffee: coffee machine.md
+  - Laundry: laundry.md
 theme:
   name: material
