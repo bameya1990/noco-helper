@@ -1,0 +1,8 @@
+site_name: Noco Helper
+site_url: https://example.com/
+nav:
+  - Home: index.md
+  - About: about.md
+  - Coffee: coffee machine.md
+theme:
+  name: material
